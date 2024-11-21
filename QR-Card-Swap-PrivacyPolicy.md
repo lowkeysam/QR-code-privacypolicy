@@ -53,7 +53,7 @@ QR Card Swap does not use any third-party services that collect or process your 
 
 ## Changes to This Privacy Policy
 
-This Privacy Policy may be updated from time to time. The latest version will always be available within the App or at [https://github.com/lowkeysam/QR-code-privacypolicy.git](https://github.com/lowkeysam/QR-code-privacypolicy/blob/main/QR-Card-Swap-PrivacyPolicy.md).
+This Privacy Policy may be updated from time to time. The latest version will always be available within the App or at [https://github.com/lowkeysam/QR-code-privacypolicy.md](https://github.com/lowkeysam/QR-code-privacypolicy/blob/main/QR-Card-Swap-PrivacyPolicy.md).
 
 We encourage you to review this page periodically to stay informed about how we handle your data—or, more accurately, how we don’t.
 
